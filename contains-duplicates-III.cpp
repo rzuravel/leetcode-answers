@@ -15,6 +15,11 @@ Example 3:
 Input: nums = [1,5,9,1,5,9], k = 2, t = 3
 Output: false
 
+Submission:
+
+Accepted Solutions Runtime Distribution: beats 94.37 % of cpp submissions.
+Accepted Solutions Memory Distribution: beats 90.40 % of cpp submissions.
+
 **/
 
 
