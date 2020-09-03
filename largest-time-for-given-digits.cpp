@@ -23,6 +23,11 @@ Note:
 A.length == 4
 0 <= A[i] <= 9
 
+Submission:
+
+Accepted Solutions Runtime Distribution: beats 81.48 % of cpp submissions.
+Accepted Solutions Memory Distribution: beats 85.66 % of cpp submissions.
+
 **/
 
 class Solution {
